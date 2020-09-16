@@ -1,4 +1,4 @@
-# jQuery lightGallery demo with Angular
+# [jQuery lightGallery](https://github.com/sachinchoolur/lightGallery) demo with Angular
 
 
 #### Step 1
